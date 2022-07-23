@@ -1,0 +1,21 @@
+.card-container {
+    background-image: linear-gradient(to top,
+            #43153a,
+            #2b2527,
+            #350d5b);
+            border-radius: 5px;
+    color:rgb(122, 173, 203)
+}
+
+button {
+    background-color: rgba(135, 225, 39, 0.966);
+    padding: 20px 30px;
+    border-radius: 5px;
+    color: #272925fe;
+    border: none;
+   
+}
+
+body {
+    background-color: #111111;
+}

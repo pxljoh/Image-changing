@@ -1,21 +1,16 @@
-.card-container {
-    background-image: linear-gradient(to top,
-            #43153a,
-            #2b2527,
-            #350d5b);
-            border-radius: 5px;
-    color:rgb(122, 173, 203)
+body {
+    margin:0px auto;
+    padding:0px;
+    width:375px;
+    background-color: #f1eeea;
 }
 
+
 button {
-    background-color: rgba(135, 225, 39, 0.966);
+    background-color: rgba(120, 187, 226, 0.966);
     padding: 20px 30px;
     border-radius: 5px;
     color: #272925fe;
     border: none;
    
-}
-
-body {
-    background-color: #111111;
 }
